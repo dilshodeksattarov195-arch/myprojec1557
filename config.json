@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioncetch",
+        "uuid": 14123547,
+        "checksum": "2mk8jo"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
